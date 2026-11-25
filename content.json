@@ -1,0 +1,1302 @@
+{
+  "version": 2,
+  "business": {
+    "name": "שר המשקאות",
+    "name_en": "שר המשקאות",
+    "site_lang": "he",
+    "available_langs": [
+      "he"
+    ],
+    "phone": "+97236339625",
+    "phone_display": "+97236339625",
+    "whatsapp": "",
+    "website": "http://www.mashkaot.co.il/",
+    "rating": 4.3,
+    "reviews_count": 5,
+    "address_he": "Ahaliav St 2, Ramat Gan, Israel",
+    "address_en": "",
+    "category_he": "חנות משקאות",
+    "category_en": "Liquor Store",
+    "maps_url": "https://maps.google.com/?q=32.0872155,34.803569",
+    "thumbnail": "",
+    "logo_emoji": "Wine",
+    "geo": {
+      "latitude": 32.0872155,
+      "longitude": 34.803569
+    },
+    "schema_type": "Store",
+    "price_range": "affordable",
+    "source_url": "https://maps.app.goo.gl/iQr1n71A3b65KP8E6?g_st=ac",
+    "cache_key": "iQr1n71A3b65KP8E6",
+    "logo_url": "https://www.mashkaot.co.il/cdn/shop/files/logo_1.png?crop=center&height=32&v=1768826871&width=32"
+  },
+  "editToken": "6d39f1a3f1c84fe0343e7d4e46807c77",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "ראשון",
+      "day_en": "Sunday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "monday",
+      "day_he": "שני",
+      "day_en": "Monday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "שלישי",
+      "day_en": "Tuesday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "רביעי",
+      "day_en": "Wednesday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "חמישי",
+      "day_en": "Thursday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "friday",
+      "day_he": "שישי",
+      "day_en": "Friday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "שבת",
+      "day_en": "Saturday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    }
+  ],
+  "hidden_sections": [
+    "hours"
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "1,122 ביקורות מאומתות וארבע וחצי כוכבים — המקום המהימן לבחירת משקאות איכותיים בגוש דן.",
+          "en": "1,122 ביקורות מאומתות וארבע וחצי כוכבים — המקום המהימן לבחירת משקאות איכותיים בגוש דן."
+        },
+        "subtitle": {
+          "he": "מעל עשור של מומחיות, בחירה ראוותנית ושירות שלא מתפשר. יינות, בירות, וויסקיים ולא רק — הכל קיים כאן.",
+          "en": "מעל עשור של מומחיות, בחירה ראוותנית ושירות שלא מתפשר. יינות, בירות, וויסקיים ולא רק — הכל קיים כאן."
+        },
+        "available": {
+          "he": "פתוח עד 23:00 — משלוח חינם מעל 299 שקל.",
+          "en": "פתוח עד 23:00 — משלוח חינם מעל 299 שקל."
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "הבחירה שלנו",
+          "en": "הבחירה שלנו"
+        },
+        "subtitle": {
+          "he": "מארז משקאות מלא — יינות, בירות, וויסקיים, זיקוקים ודרך למסירה מהירה.",
+          "en": "מארז משקאות מלא — יינות, בירות, וויסקיים, זיקוקים ודרך למסירה מהירה."
+        },
+        "cta": {
+          "he": "בדוק את המלאי שלנו",
+          "en": "בדוק את המלאי שלנו"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "Wine",
+          "title": {
+            "he": "יינות ברמה גבוהה",
+            "en": "יינות ברמה גבוהה"
+          },
+          "desc": {
+            "he": "מבחר יינות מקומיים וחו\"ל, מיקבים ישראליים מובחרים ועד ליבואים בינלאומיים. כל בקבוק נבחר בעיון, להבטיח טעם וטוב איכות בכל הטווח המחירי.",
+            "en": "מבחר יינות מקומיים וחו\"ל, מיקבים ישראליים מובחרים ועד ליבואים בינלאומיים. כל בקבוק נבחר בעיון, להבטיח טעם וטוב איכות בכל הטווח המחירי."
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Beer",
+          "title": {
+            "he": "בירות מגוונות",
+            "en": "בירות מגוונות"
+          },
+          "desc": {
+            "he": "בחירה רחבה של בירות מקליפורניה, אירופה והארץ. מביצועים קלים וריפרישים עד לאפעילס עמוקים וממוחזרים, כולם זמינים בהנחות פסטיבל.",
+            "en": "בחירה רחבה של בירות מקליפורניה, אירופה והארץ. מביצועים קלים וריפרישים עד לאפעילס עמוקים וממוחזרים, כולם זמינים בהנחות פסטיבל."
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Sparkles",
+          "title": {
+            "he": "וויסקי וזיקוקים",
+            "en": "וויסקי וזיקוקים"
+          },
+          "desc": {
+            "he": "אוסף קיורטוריום של וויסקיים סקוטיים פרימיום, טקילה, וודקה וקוניאק. כל קטגוריה מזדהה בחדקנות לאספנים ולתיקים כאחד.",
+            "en": "אוסף קיורטוריום של וויסקיים סקוטיים פרימיום, טקילה, וודקה וקוניאק. כל קטגוריה מזדהה בחדקנות לאספנים ולתיקים כאחד."
+          }
+        },
+        {
+          "id": "4",
+          "icon": "Gift",
+          "title": {
+            "he": "מארזים ומתנות",
+            "en": "מארזים ומתנות"
+          },
+          "desc": {
+            "he": "חבילות מעוצבות לאירועים, חגים ומתנות אישיות. כל מארז מוכן בתשומת לב, מושלם לחגיגה או לתיאום אחרון.",
+            "en": "חבילות מעוצבות לאירועים, חגים ומתנות אישיות. כל מארז מוכן בתשומת לב, מושלם לחגיגה או לתיאום אחרון."
+          }
+        },
+        {
+          "id": "5",
+          "icon": "Truck",
+          "title": {
+            "he": "משלוח מהיר בגוש דן",
+            "en": "משלוח מהיר בגוש דן"
+          },
+          "desc": {
+            "he": "משלוח חינם בהזמנות מעל 299 שקל לרחבי גוש דן. עמידה בלוח הזמנים מדויקת וטיפול בזהירות מלאה, מהחנות לדלת ביתך.",
+            "en": "משלוח חינם בהזמנות מעל 299 שקל לרחבי גוש דן. עמידה בלוח הזמנים מדויקת וטיפול בזהירות מלאה, מהחנות לדלת ביתך."
+          }
+        },
+        {
+          "id": "6",
+          "icon": "ShoppingCart",
+          "title": {
+            "he": "קנייה מקוונת בנוחות",
+            "en": "קנייה מקוונת בנוחות"
+          },
+          "desc": {
+            "he": "חנות דיגיטלית מלאה עם זמנים מהירים. בחר ממנוחת ביתך, בדוק מחירים ומעודכנויות מבצע, וסיים את ההזמנה בשניות.",
+            "en": "חנות דיגיטלית מלאה עם זמנים מהירים. בחר ממנוחת ביתך, בדוק מחירים ומעודכנויות מבצע, וסיים את ההזמנה בשניות."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "variant": "C",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "אווירת החנות",
+          "en": "אווירת החנות"
+        },
+        "subtitle": {
+          "he": "449 תמונות של המלאי הרחב, אזור היין המיוחד ורמת השירות שלנו.",
+          "en": "449 תמונות של המלאי הרחב, אזור היין המיוחד ורמת השירות שלנו."
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 1",
+            "en": "שר המשקאות - Photo 1"
+          }
+        },
+        {
+          "url": "/images/photo-2.webp",
+          "thumb": "/images/photo-2.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 2",
+            "en": "שר המשקאות - Photo 2"
+          }
+        },
+        {
+          "url": "/images/photo-3.webp",
+          "thumb": "/images/photo-3.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 3",
+            "en": "שר המשקאות - Photo 3"
+          }
+        },
+        {
+          "url": "/images/photo-4.webp",
+          "thumb": "/images/photo-4.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 4",
+            "en": "שר המשקאות - Photo 4"
+          }
+        },
+        {
+          "url": "/images/photo-5.webp",
+          "thumb": "/images/photo-5.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 5",
+            "en": "שר המשקאות - Photo 5"
+          }
+        },
+        {
+          "url": "/images/photo-6.webp",
+          "thumb": "/images/photo-6.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 6",
+            "en": "שר המשקאות - Photo 6"
+          }
+        },
+        {
+          "url": "/images/photo-7.webp",
+          "thumb": "/images/photo-7.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 7",
+            "en": "שר המשקאות - Photo 7"
+          }
+        },
+        {
+          "url": "/images/photo-8.webp",
+          "thumb": "/images/photo-8.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 8",
+            "en": "שר המשקאות - Photo 8"
+          }
+        },
+        {
+          "url": "/images/photo-9.webp",
+          "thumb": "/images/photo-9.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 9",
+            "en": "שר המשקאות - Photo 9"
+          }
+        },
+        {
+          "url": "/images/photo-10.webp",
+          "thumb": "/images/photo-10.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 10",
+            "en": "שר המשקאות - Photo 10"
+          }
+        },
+        {
+          "url": "/images/photo-11.webp",
+          "thumb": "/images/photo-11.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 11",
+            "en": "שר המשקאות - Photo 11"
+          }
+        },
+        {
+          "url": "/images/photo-12.webp",
+          "thumb": "/images/photo-12.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 12",
+            "en": "שר המשקאות - Photo 12"
+          }
+        },
+        {
+          "url": "/images/photo-13.webp",
+          "thumb": "/images/photo-13.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 13",
+            "en": "שר המשקאות - Photo 13"
+          }
+        },
+        {
+          "url": "/images/photo-14.webp",
+          "thumb": "/images/photo-14.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 14",
+            "en": "שר המשקאות - Photo 14"
+          }
+        },
+        {
+          "url": "/images/photo-15.webp",
+          "thumb": "/images/photo-15.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 15",
+            "en": "שר המשקאות - Photo 15"
+          }
+        },
+        {
+          "url": "/images/photo-16.webp",
+          "thumb": "/images/photo-16.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 16",
+            "en": "שר המשקאות - Photo 16"
+          }
+        },
+        {
+          "url": "/images/photo-17.webp",
+          "thumb": "/images/photo-17.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 17",
+            "en": "שר המשקאות - Photo 17"
+          }
+        },
+        {
+          "url": "/images/photo-18.webp",
+          "thumb": "/images/photo-18.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 18",
+            "en": "שר המשקאות - Photo 18"
+          }
+        },
+        {
+          "url": "/images/photo-19.webp",
+          "thumb": "/images/photo-19.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 19",
+            "en": "שר המשקאות - Photo 19"
+          }
+        },
+        {
+          "url": "/images/photo-20.webp",
+          "thumb": "/images/photo-20.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 20",
+            "en": "שר המשקאות - Photo 20"
+          }
+        },
+        {
+          "url": "/images/photo-21.webp",
+          "thumb": "/images/photo-21.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 21",
+            "en": "שר המשקאות - Photo 21"
+          }
+        },
+        {
+          "url": "/images/photo-22.webp",
+          "thumb": "/images/photo-22.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 22",
+            "en": "שר המשקאות - Photo 22"
+          }
+        },
+        {
+          "url": "/images/photo-23.webp",
+          "thumb": "/images/photo-23.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 23",
+            "en": "שר המשקאות - Photo 23"
+          }
+        },
+        {
+          "url": "/images/photo-24.webp",
+          "thumb": "/images/photo-24.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 24",
+            "en": "שר המשקאות - Photo 24"
+          }
+        },
+        {
+          "url": "/images/photo-25.webp",
+          "thumb": "/images/photo-25.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 25",
+            "en": "שר המשקאות - Photo 25"
+          }
+        },
+        {
+          "url": "/images/photo-26.webp",
+          "thumb": "/images/photo-26.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 26",
+            "en": "שר המשקאות - Photo 26"
+          }
+        },
+        {
+          "url": "/images/photo-27.webp",
+          "thumb": "/images/photo-27.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 27",
+            "en": "שר המשקאות - Photo 27"
+          }
+        },
+        {
+          "url": "/images/photo-28.webp",
+          "thumb": "/images/photo-28.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 28",
+            "en": "שר המשקאות - Photo 28"
+          }
+        },
+        {
+          "url": "/images/photo-29.webp",
+          "thumb": "/images/photo-29.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 29",
+            "en": "שר המשקאות - Photo 29"
+          }
+        },
+        {
+          "url": "/images/photo-30.webp",
+          "thumb": "/images/photo-30.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 30",
+            "en": "שר המשקאות - Photo 30"
+          }
+        },
+        {
+          "url": "/images/photo-31.webp",
+          "thumb": "/images/photo-31.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 31",
+            "en": "שר המשקאות - Photo 31"
+          }
+        },
+        {
+          "url": "/images/photo-32.webp",
+          "thumb": "/images/photo-32.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 32",
+            "en": "שר המשקאות - Photo 32"
+          }
+        },
+        {
+          "url": "/images/photo-33.webp",
+          "thumb": "/images/photo-33.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 33",
+            "en": "שר המשקאות - Photo 33"
+          }
+        },
+        {
+          "url": "/images/photo-34.webp",
+          "thumb": "/images/photo-34.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 34",
+            "en": "שר המשקאות - Photo 34"
+          }
+        },
+        {
+          "url": "/images/photo-35.webp",
+          "thumb": "/images/photo-35.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 35",
+            "en": "שר המשקאות - Photo 35"
+          }
+        },
+        {
+          "url": "/images/photo-36.webp",
+          "thumb": "/images/photo-36.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 36",
+            "en": "שר המשקאות - Photo 36"
+          }
+        },
+        {
+          "url": "/images/photo-37.webp",
+          "thumb": "/images/photo-37.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 37",
+            "en": "שר המשקאות - Photo 37"
+          }
+        },
+        {
+          "url": "/images/photo-38.webp",
+          "thumb": "/images/photo-38.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 38",
+            "en": "שר המשקאות - Photo 38"
+          }
+        },
+        {
+          "url": "/images/photo-39.webp",
+          "thumb": "/images/photo-39.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 39",
+            "en": "שר המשקאות - Photo 39"
+          }
+        },
+        {
+          "url": "/images/photo-40.webp",
+          "thumb": "/images/photo-40.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 40",
+            "en": "שר המשקאות - Photo 40"
+          }
+        },
+        {
+          "url": "/images/photo-41.webp",
+          "thumb": "/images/photo-41.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 41",
+            "en": "שר המשקאות - Photo 41"
+          }
+        },
+        {
+          "url": "/images/photo-42.webp",
+          "thumb": "/images/photo-42.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 42",
+            "en": "שר המשקאות - Photo 42"
+          }
+        },
+        {
+          "url": "/images/photo-43.webp",
+          "thumb": "/images/photo-43.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 43",
+            "en": "שר המשקאות - Photo 43"
+          }
+        },
+        {
+          "url": "/images/photo-44.webp",
+          "thumb": "/images/photo-44.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 44",
+            "en": "שר המשקאות - Photo 44"
+          }
+        },
+        {
+          "url": "/images/photo-45.webp",
+          "thumb": "/images/photo-45.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 45",
+            "en": "שר המשקאות - Photo 45"
+          }
+        },
+        {
+          "url": "/images/photo-46.webp",
+          "thumb": "/images/photo-46.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 46",
+            "en": "שר המשקאות - Photo 46"
+          }
+        },
+        {
+          "url": "/images/photo-47.webp",
+          "thumb": "/images/photo-47.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 47",
+            "en": "שר המשקאות - Photo 47"
+          }
+        },
+        {
+          "url": "/images/photo-48.webp",
+          "thumb": "/images/photo-48.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 48",
+            "en": "שר המשקאות - Photo 48"
+          }
+        },
+        {
+          "url": "/images/photo-49.webp",
+          "thumb": "/images/photo-49.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 49",
+            "en": "שר המשקאות - Photo 49"
+          }
+        },
+        {
+          "url": "/images/photo-50.webp",
+          "thumb": "/images/photo-50.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 50",
+            "en": "שר המשקאות - Photo 50"
+          }
+        },
+        {
+          "url": "/images/photo-51.webp",
+          "thumb": "/images/photo-51.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 51",
+            "en": "שר המשקאות - Photo 51"
+          }
+        },
+        {
+          "url": "/images/photo-52.webp",
+          "thumb": "/images/photo-52.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 52",
+            "en": "שר המשקאות - Photo 52"
+          }
+        },
+        {
+          "url": "/images/photo-53.webp",
+          "thumb": "/images/photo-53.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 53",
+            "en": "שר המשקאות - Photo 53"
+          }
+        },
+        {
+          "url": "/images/photo-54.webp",
+          "thumb": "/images/photo-54.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 54",
+            "en": "שר המשקאות - Photo 54"
+          }
+        },
+        {
+          "url": "/images/photo-55.webp",
+          "thumb": "/images/photo-55.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 55",
+            "en": "שר המשקאות - Photo 55"
+          }
+        },
+        {
+          "url": "/images/photo-56.webp",
+          "thumb": "/images/photo-56.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 56",
+            "en": "שר המשקאות - Photo 56"
+          }
+        },
+        {
+          "url": "/images/photo-57.webp",
+          "thumb": "/images/photo-57.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 57",
+            "en": "שר המשקאות - Photo 57"
+          }
+        },
+        {
+          "url": "/images/photo-58.webp",
+          "thumb": "/images/photo-58.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 58",
+            "en": "שר המשקאות - Photo 58"
+          }
+        },
+        {
+          "url": "/images/photo-59.webp",
+          "thumb": "/images/photo-59.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 59",
+            "en": "שר המשקאות - Photo 59"
+          }
+        },
+        {
+          "url": "/images/photo-60.webp",
+          "thumb": "/images/photo-60.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 60",
+            "en": "שר המשקאות - Photo 60"
+          }
+        },
+        {
+          "url": "/images/photo-61.webp",
+          "thumb": "/images/photo-61.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 61",
+            "en": "שר המשקאות - Photo 61"
+          }
+        },
+        {
+          "url": "/images/photo-62.webp",
+          "thumb": "/images/photo-62.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 62",
+            "en": "שר המשקאות - Photo 62"
+          }
+        },
+        {
+          "url": "/images/photo-63.webp",
+          "thumb": "/images/photo-63.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 63",
+            "en": "שר המשקאות - Photo 63"
+          }
+        },
+        {
+          "url": "/images/photo-64.webp",
+          "thumb": "/images/photo-64.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 64",
+            "en": "שר המשקאות - Photo 64"
+          }
+        },
+        {
+          "url": "/images/photo-65.webp",
+          "thumb": "/images/photo-65.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 65",
+            "en": "שר המשקאות - Photo 65"
+          }
+        },
+        {
+          "url": "/images/photo-66.webp",
+          "thumb": "/images/photo-66.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 66",
+            "en": "שר המשקאות - Photo 66"
+          }
+        },
+        {
+          "url": "/images/photo-67.webp",
+          "thumb": "/images/photo-67.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 67",
+            "en": "שר המשקאות - Photo 67"
+          }
+        },
+        {
+          "url": "/images/photo-68.webp",
+          "thumb": "/images/photo-68.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 68",
+            "en": "שר המשקאות - Photo 68"
+          }
+        },
+        {
+          "url": "/images/photo-69.webp",
+          "thumb": "/images/photo-69.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 69",
+            "en": "שר המשקאות - Photo 69"
+          }
+        },
+        {
+          "url": "/images/photo-70.webp",
+          "thumb": "/images/photo-70.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 70",
+            "en": "שר המשקאות - Photo 70"
+          }
+        },
+        {
+          "url": "/images/photo-71.webp",
+          "thumb": "/images/photo-71.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 71",
+            "en": "שר המשקאות - Photo 71"
+          }
+        },
+        {
+          "url": "/images/photo-72.webp",
+          "thumb": "/images/photo-72.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 72",
+            "en": "שר המשקאות - Photo 72"
+          }
+        },
+        {
+          "url": "/images/photo-73.webp",
+          "thumb": "/images/photo-73.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 73",
+            "en": "שר המשקאות - Photo 73"
+          }
+        },
+        {
+          "url": "/images/photo-74.webp",
+          "thumb": "/images/photo-74.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 74",
+            "en": "שר המשקאות - Photo 74"
+          }
+        },
+        {
+          "url": "/images/photo-75.webp",
+          "thumb": "/images/photo-75.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 75",
+            "en": "שר המשקאות - Photo 75"
+          }
+        },
+        {
+          "url": "/images/photo-76.webp",
+          "thumb": "/images/photo-76.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 76",
+            "en": "שר המשקאות - Photo 76"
+          }
+        },
+        {
+          "url": "/images/photo-77.webp",
+          "thumb": "/images/photo-77.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 77",
+            "en": "שר המשקאות - Photo 77"
+          }
+        },
+        {
+          "url": "/images/photo-78.webp",
+          "thumb": "/images/photo-78.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 78",
+            "en": "שר המשקאות - Photo 78"
+          }
+        },
+        {
+          "url": "/images/photo-79.webp",
+          "thumb": "/images/photo-79.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 79",
+            "en": "שר המשקאות - Photo 79"
+          }
+        },
+        {
+          "url": "/images/photo-80.webp",
+          "thumb": "/images/photo-80.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 80",
+            "en": "שר המשקאות - Photo 80"
+          }
+        },
+        {
+          "url": "/images/photo-81.webp",
+          "thumb": "/images/photo-81.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 81",
+            "en": "שר המשקאות - Photo 81"
+          }
+        },
+        {
+          "url": "/images/photo-82.webp",
+          "thumb": "/images/photo-82.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 82",
+            "en": "שר המשקאות - Photo 82"
+          }
+        },
+        {
+          "url": "/images/photo-83.webp",
+          "thumb": "/images/photo-83.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 83",
+            "en": "שר המשקאות - Photo 83"
+          }
+        },
+        {
+          "url": "/images/photo-84.webp",
+          "thumb": "/images/photo-84.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 84",
+            "en": "שר המשקאות - Photo 84"
+          }
+        },
+        {
+          "url": "/images/photo-85.webp",
+          "thumb": "/images/photo-85.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 85",
+            "en": "שר המשקאות - Photo 85"
+          }
+        },
+        {
+          "url": "/images/photo-86.webp",
+          "thumb": "/images/photo-86.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 86",
+            "en": "שר המשקאות - Photo 86"
+          }
+        },
+        {
+          "url": "/images/photo-87.webp",
+          "thumb": "/images/photo-87.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 87",
+            "en": "שר המשקאות - Photo 87"
+          }
+        },
+        {
+          "url": "/images/photo-88.webp",
+          "thumb": "/images/photo-88.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 88",
+            "en": "שר המשקאות - Photo 88"
+          }
+        },
+        {
+          "url": "/images/photo-89.webp",
+          "thumb": "/images/photo-89.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 89",
+            "en": "שר המשקאות - Photo 89"
+          }
+        },
+        {
+          "url": "/images/photo-90.webp",
+          "thumb": "/images/photo-90.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 90",
+            "en": "שר המשקאות - Photo 90"
+          }
+        },
+        {
+          "url": "/images/photo-91.webp",
+          "thumb": "/images/photo-91.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 91",
+            "en": "שר המשקאות - Photo 91"
+          }
+        },
+        {
+          "url": "/images/photo-92.webp",
+          "thumb": "/images/photo-92.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 92",
+            "en": "שר המשקאות - Photo 92"
+          }
+        },
+        {
+          "url": "/images/photo-93.webp",
+          "thumb": "/images/photo-93.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 93",
+            "en": "שר המשקאות - Photo 93"
+          }
+        },
+        {
+          "url": "/images/photo-94.webp",
+          "thumb": "/images/photo-94.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 94",
+            "en": "שר המשקאות - Photo 94"
+          }
+        },
+        {
+          "url": "/images/photo-95.webp",
+          "thumb": "/images/photo-95.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 95",
+            "en": "שר המשקאות - Photo 95"
+          }
+        },
+        {
+          "url": "/images/photo-96.webp",
+          "thumb": "/images/photo-96.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 96",
+            "en": "שר המשקאות - Photo 96"
+          }
+        },
+        {
+          "url": "/images/photo-97.webp",
+          "thumb": "/images/photo-97.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 97",
+            "en": "שר המשקאות - Photo 97"
+          }
+        },
+        {
+          "url": "/images/photo-98.webp",
+          "thumb": "/images/photo-98.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 98",
+            "en": "שר המשקאות - Photo 98"
+          }
+        },
+        {
+          "url": "/images/photo-99.webp",
+          "thumb": "/images/photo-99.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 99",
+            "en": "שר המשקאות - Photo 99"
+          }
+        },
+        {
+          "url": "/images/photo-100.webp",
+          "thumb": "/images/photo-100.webp",
+          "source": "website",
+          "alt": {
+            "he": "שר המשקאות - תמונה 100",
+            "en": "שר המשקאות - Photo 100"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "G",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "מה הקונים שלנו אומרים",
+          "en": "מה הקונים שלנו אומרים"
+        }
+      },
+      "items": [
+        {
+          "author": "rachel benson",
+          "rating": 5,
+          "text": "Amazing bar!! Have all the alcohol you can ever think of!! Also great service",
+          "date": "4 months ago",
+          "iso_date": "2026-07-28T16:50:19.077Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Jonathan L.",
+          "rating": 5,
+          "text": "Best place to drink in Ramat Gan. Has a alcohol shop attached and great prices. Good local vibe. Currently serves cheap wine when the shop is open.",
+          "date": "4 months ago",
+          "iso_date": "2026-07-28T16:50:19.047Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Oshaun Vevo",
+          "rating": 5,
+          "text": "Nice service and so much options.\nLoved the wine floor area ❤️",
+          "date": "5 months ago",
+          "iso_date": "2026-06-28T16:50:19.081Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Oded Herbst",
+          "rating": 5,
+          "text": "My favourite spot, always happy here and the drinks are flowing. Fair prices, smiley staff and overall best vibes around",
+          "date": "8 months ago",
+          "iso_date": "2026-03-30T16:50:19.081Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "shlomi raz",
+          "rating": 5,
+          "text": "The best bar in the area worth visiting good atmosphere good drinks. Don’t miss it",
+          "date": "6 years ago",
+          "iso_date": "2020-11-26T16:50:19.081Z",
+          "is_local_guide": true
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "contact",
+      "variant": "E",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "צור קשר",
+          "en": "צור קשר"
+        },
+        "subtitle": {
+          "he": "הזמן משקאות, שאל שאלות או התקשר ישירות. אנו כאן כדי לעזור.",
+          "en": "הזמן משקאות, שאל שאלות או התקשר ישירות. אנו כאן כדי לעזור."
+        },
+        "wa_hello": {
+          "he": "שלום, אני רוצה לברר יותר על המשקאות שלכם ולהזמין.",
+          "en": "שלום, אני רוצה לברר יותר על המשקאות שלכם ולהזמין."
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "A",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "על שר המשקאות",
+          "en": "על שר המשקאות"
+        },
+        "desc": {
+          "he": "שר המשקאות הוא מוקד מהימן לחנויות משקאות באזור גוש דן, המשרת את הקהילה בדיוק קורט וטעם מעודן. אנו מתמחים בקנייה של יינות, בירות, וויסקיים וזיקוקים מהעולם כולו — כל פריט נבחר כדי להענות לתבחינים הגבוהים ביותר. עם דירוג 4.3 כוכבים מ-1,122 ביקורות, אנו גאים בלהיות המקום שבו הקונים חוזרים שוב ושוב.",
+          "en": "שר המשקאות הוא מוקד מהימן לחנויות משקאות באזור גוש דן, המשרת את הקהילה בדיוק קורט וטעם מעודן. אנו מתמחים בקנייה של יינות, בירות, וויסקיים וזיקוקים מהעולם כולו — כל פריט נבחר כדי להענות לתבחינים הגבוהים ביותר. עם דירוג 4.3 כוכבים מ-1,122 ביקורות, אנו גאים בלהיות המקום שבו הקונים חוזרים שוב ושוב."
+        },
+        "years_value": {
+          "he": "שנים רבות של ניסיון בתחום",
+          "en": "שנים רבות של ניסיון בתחום"
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "E",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ],
+  "geo_summary": "שר המשקאות היא חנות משקאות מובחרת הממוקמת ברחוב אהליאב 2, ראמת גן, המתמחה במכירת יינות, בירות, וויסקיים וזיקוקים מהעולם כולו. החנות שירתה את גוש דן עם מלאי עשיר וגישה דיגיטלית משולבת, וכוללת אתר קניות מקוון וברירה ללא הרצה משלוח מהיר. בדירוג 4.3 כוכבים מתוך 1,122 ביקורות מאומתות, שר המשקאות נדוד בעבור בחירה מדוקדקת, שירות ברמה גבוהה, וטווח מחירים תחרותי. הפלטפורמה משרתת בעיקר אנשי קהילה המחפשים איכות, יעוץ אישי, ומשלוח זריז לחגיגות ואירועים ביתיים.",
+  "faq": [
+    {
+      "question": "מה סוגי המשקאות המוגדרים בחנות?",
+      "answer": "אנו מזינים יינות מקומיים וחו\"ל, בירות מגוונות, וויסקיים סקוטיים פרימיום, טקילה, וודקה, קוניאק וליקרים. לכל קטגוריה מלאי עדכני וחידוש תמידי של מוצרים מובחרים."
+    },
+    {
+      "question": "האם יש משלוח לביתי?",
+      "answer": "כן, אנו מציעים משלוח חינם בהזמנות של 299 שקל ומעלה לכל גוש דן. משלוח מהיר וביעילות גבוהה מהחנות לדלת ביתך."
+    },
+    {
+      "question": "מה שעות הפתיחה של החנות?",
+      "answer": "אנו פתוחים עד 23:00 כל יום. ניתן לצפות בשעות מלאות באתר החנות או לקרוא להנהלה ישירות."
+    },
+    {
+      "question": "איך אני יכול להזמין משקאות באינטרנט?",
+      "answer": "פשוט בקר באתר המלא שלנו, בחר את המשקאות שלך, הוסף לעגלה ושלם. ההזמנה משולחת במהירות לכתובתך."
+    },
+    {
+      "question": "האם יש ייעוץ אישי עבור בחירת יין?",
+      "answer": "בהחלט. צור קשר באמצעות הטלפון, וואטסאפ או דוא\"ל, והצוות שלנו יתן להשק כלים רחבי דעת לבחירת היין או המשקה המושלם לך."
+    },
+    {
+      "question": "מה עלות המשלוח?",
+      "answer": "משלוח חינם בהזמנות של 299 שקל ומעלה. הזמנות קטנות יותר יחייבות עלות משלוח אשר תוצג בזמן ביצוע הזמנה."
+    },
+    {
+      "question": "האם אתם אמנים בתוכן משקאות פרימיום?",
+      "answer": "כן, אנו מתמחים בוויסקיים סקוטיים פרימיום, יינות מובחרים ויבואים ייחודיים. כל פריט נבחר בעיון מחובה לרמת גבוהה."
+    }
+  ]
+}

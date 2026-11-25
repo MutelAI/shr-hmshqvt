@@ -1,0 +1,11 @@
+{
+  "primary_color": "rose",
+  "secondary_color": "violet",
+  "hero_gradient": "linear-gradient(135deg, #be123c 0%, #9f1239 50%, #6d0821 100%)",
+  "contact_gradient": "linear-gradient(135deg, #6f42c1 0%, #5a2a7f 50%, #3d1a47 100%)",
+  "font_heading": "Frank Ruhl Libre",
+  "font_body": "Heebo",
+  "font_google_import": "Frank+Ruhl+Libre:wght@500;700;900&family=Heebo:wght@300;400;500;700",
+  "brand_personality": "מהימן, מומחה, מדוקדק — מותג של איכות ומשאלה.",
+  "logo_emoji": "Wine"
+}
